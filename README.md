@@ -1,3 +1,10 @@
+###  MLP
+Build a Multi-Layer Perceptron.
+- Create a new MLP with any given number of inputs, any number of outputs (can be sigmoidal or linear), and any number of hidden units (sigmoidal/tanh) in a single layer.
+- Initialise the weights of the MLP to small random values.
+- Predict the outputs corresponding to an input vector.
+- Implement learning by backpropagation.
+
 ###  TextClassification
 #### Overview 
 The objective of this project is to scrape consumer reviews from a set of web pages and evaluate the performance of text classification on the data. The reviews have been divided into five categories here:
