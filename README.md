@@ -13,7 +13,7 @@ Train a classification model on the data from “Category A”, and evaluate its
 Train a classification model on the data from “Category B”, and evaluate its performance on the data from “Category A”.
 
 
-###  DataCollection&PreparationPractice
+###  DataCollection&Preparation
 #### Overview 
 The objective of this project is to collect a dataset from one or more open web APIs, and use Python to preprocess and analyse the collected data.
 #### Tasks
